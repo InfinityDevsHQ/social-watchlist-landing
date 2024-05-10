@@ -6,8 +6,9 @@
 const burger = document.querySelector(".burger");
 const navLinks = document.querySelector(".nav-links");
 
-burger.addEventListener("click", () => {
+navLinks.addEventListener("click", () => {
   // navLinks.classList.toggle("block");
   // navLinks.classList.toggle("hidden");
-  navLinks.classList.toggle("active");
+  navLinks.classList.toggle("hidden");
+  navLinks.classList.toggle("flex");
 });

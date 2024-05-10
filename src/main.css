@@ -84,7 +84,7 @@ body {
   content: "➖";
 }
 
-/* .burger {
+.burger {
   cursor: pointer;
   display: none;
   margin-right: 20px;
@@ -98,7 +98,7 @@ body {
   margin: 5px;
   transition: all 0.3s ease;
 }
-
+/*
 .toggle div:nth-child(1) {
   transform: rotate(-45deg) translate(-5px, 6px);
 }
@@ -115,7 +115,7 @@ body {
 /* .nav-links {
   display: none;
 } */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .nav-links {
     display: block;
   }
@@ -146,7 +146,7 @@ body {
   left: 0;
   right: 0;
   z-index: 9;
-}
+} */
 
 /* @media only screen and (max-width: 450px) {
   nav {
