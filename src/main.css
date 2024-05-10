@@ -2,7 +2,7 @@ body {
   font-family: Poppins, sans-serif;
 }
 
-#save-time,
+/* #save-time,
 #schedule {
   margin: 0 auto;
 
@@ -16,7 +16,7 @@ body {
 
 #save-time#schedule,
 #schedule#schedule {
-  /* background-color: #edf6f9; */
+  background-color: #edf6f9; 
   margin-top: 66px;
 }
 #save-time img,
@@ -97,7 +97,7 @@ body {
   background-color: black;
   margin: 5px;
   transition: all 0.3s ease;
-}
+} */
 /*
 .toggle div:nth-child(1) {
   transform: rotate(-45deg) translate(-5px, 6px);
